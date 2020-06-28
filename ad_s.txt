@@ -1,0 +1,44 @@
+AdminOperationsProtocol 1 file have this word:
+(hadoop-policy.xml:1 [79 4]);
+
+Hadoop-specific 2 files have this word:
+(hadoop-env.cmd:1 [17 3]);
+(hadoop-env.sh:1 [17 2]);
+
+ResourceManagerAdministrationProtocol   1 file have this word:
+(hadoop-policy.xml:1 [151 4]);
+
+THREADS 1 file have this word:
+(kms-env.sh:1 [41 4]);
+
+acl-administer-jobs     1 file have this word:
+(mapred-queues.xml.template:2 [73 1][73 2]);
+
+administer      1 file have this word:
+(capacity-scheduler.xml:2 [93 8][96 6]);
+
+administrators  2 files have this word:
+(mapred-queues.xml.template:4 [52 4][53 3][69 4][70 3]);
+(capacity-scheduler.xml:1 [128 9]);
+
+dfsadmin        1 file have this word:
+(hadoop-policy.xml:1 [99 1]);
+
+get-keys-metadata       1 file have this word:
+(kms-acls.xml:1 [69 5]);
+
+hadoop-auth-signature-secret    1 file have this word:
+(kms-site.xml:1 [132 3]);
+
+hadoop-kms      1 file have this word:
+(kms-site.xml:1 [132 2]);
+
+resourcemanager-administration  1 file have this word:
+(hadoop-policy.xml:1 [149 3]);
+
+threads 1 file have this word:
+(kms-env.sh:1 [39 7]);
+
+threadsBlocked  1 file have this word:
+(hadoop-metrics2.properties:1 [47 6]);
+

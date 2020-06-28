@@ -1,0 +1,73 @@
+JobInProgress   1 file have this word:
+(log4j.properties:2 [203 7][204 7]);
+
+LogMessage      1 file have this word:
+(log4j.properties:2 [44 6][62 6]);
+
+NICENESS        1 file have this word:
+(mapred-env.sh:1 [27 4]);
+
+Unless  24 files have this word:
+(capacity-scheduler.xml:1 [8 1]);
+(configuration.xsl:1 [12 1]);
+(core-site.xml:1 [10 1]);
+(hadoop-env.cmd:1 [11 2]);
+(hadoop-env.sh:1 [11 1]);
+(hadoop-policy.xml:1 [15 1]);
+(hdfs-site.xml:1 [10 1]);
+(httpfs-env.sh:1 [9 1]);
+(httpfs-log4j.properties:1 [8 1]);
+(httpfs-site.xml:1 [9 1]);
+(kms-acls.xml:1 [9 1]);
+(kms-env.sh:1 [9 1]);
+(kms-log4j.properties:1 [8 1]);
+(kms-site.xml:1 [9 1]);
+(log4j.properties:1 [11 1]);
+(mapred-env.cmd:1 [11 2]);
+(mapred-env.sh:1 [10 1]);
+(mapred-queues.xml.template:1 [12 1]);
+(mapred-site.xml.template:1 [10 1]);
+(ssl-client.xml.example:1 [13 1]);
+(ssl-server.xml.example:1 [13 1]);
+(yarn-env.cmd:1 [11 2]);
+(yarn-env.sh:1 [10 1]);
+(yarn-site.xml:1 [9 1]);
+
+access  1 file have this word:
+(hadoop-policy.xml:1 [115 4]);
+
+express 24 files have this word:
+(capacity-scheduler.xml:1 [10 9]);
+(configuration.xsl:1 [14 9]);
+(core-site.xml:1 [12 9]);
+(hadoop-env.cmd:1 [13 10]);
+(hadoop-env.sh:1 [13 9]);
+(hadoop-policy.xml:1 [17 9]);
+(hdfs-site.xml:1 [12 9]);
+(httpfs-env.sh:1 [11 9]);
+(httpfs-log4j.properties:1 [10 9]);
+(httpfs-site.xml:1 [11 9]);
+(kms-acls.xml:1 [11 9]);
+(kms-env.sh:1 [11 9]);
+(kms-log4j.properties:1 [10 9]);
+(kms-site.xml:1 [11 9]);
+(log4j.properties:1 [13 9]);
+(mapred-env.cmd:1 [13 10]);
+(mapred-env.sh:1 [12 9]);
+(mapred-queues.xml.template:1 [14 9]);
+(mapred-site.xml.template:1 [12 9]);
+(ssl-client.xml.example:1 [15 9]);
+(ssl-server.xml.example:1 [15 9]);
+(yarn-env.cmd:1 [13 10]);
+(yarn-env.sh:1 [12 9]);
+(yarn-site.xml:1 [11 9]);
+
+message 1 file have this word:
+(kms-site.xml:1 [74 10]);
+
+messages        1 file have this word:
+(log4j.properties:2 [102 1][182 5]);
+
+suppress        1 file have this word:
+(log4j.properties:1 [101 5]);
+
